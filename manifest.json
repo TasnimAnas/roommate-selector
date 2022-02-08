@@ -1,6 +1,6 @@
 {
-    "name": "rommate",
-    "short_name": "rommate",
+    "name": "roommate",
+    "short_name": "roommate",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
